@@ -1,0 +1,24 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <radialGradient r="0.91601" cy="0.027344" cx="0.960938" spreadMethod="pad" id="svg_12">
+   <stop offset="0" stop-color="#FFA9A2"/>
+   <stop offset="1" stop-color="#00565d"/>
+  </radialGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_8" d="m113.5,298.4375l66.5,0.5625l64,-5c0.5,0.4375 30.5,-2.5625 30.5,-2.5625c0,0 34,-5 33.5,-5.4375c0.5,0.4375 35.5,-6.5625 35,-7c0.5,0.4375 70.5,-27.5625 70,-28c0.5,0.4375 30.5,-22.5625 30,-23c0.5,0.4375 29.5,-44.5625 29,-45c0.5,0.4375 34.5,-111.5625 34,-112" opacity="0.5" stroke-opacity="null" stroke-width="3" stroke="#000" fill="none"/>
+  <text stroke="#000" transform="matrix(11.083173035640057,0,0,10.064786523580553,-975.8162619556931,-1387.4370933510365) " xml:space="preserve" text-anchor="start" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="24" id="svg_1" y="167.479018" x="98.204373" stroke-width="0" fill="url(#svg_12)">F</text>
+  <text stroke="#000" transform="matrix(12.729181475930204,0,0,10.275429921577478,-3114.44632122482,-1176.3264435411834) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="138.410695" x="263.17757" stroke-width="0" fill="#FFAC8D">G</text>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_4" y2="359.4375" x2="114.5" y1="73.4375" x1="117.5" stroke-width="2.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_6" y2="299.4375" x2="495.5" y1="300.4375" x1="56.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+ </g>
+</svg>
